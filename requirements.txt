@@ -2,3 +2,4 @@ flask
 requests
 telegraph
 sqlite3
+gunicorn
